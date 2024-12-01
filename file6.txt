@@ -1,1 +1,2 @@
 file6 content
+file7 added
